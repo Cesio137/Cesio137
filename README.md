@@ -1,4 +1,4 @@
-#### Fala tu, eu sou Nathan Miguel! Gosto de codar jogos, game engines, IA, websites e etc.
+#### Fala tu, eu sou Nathan Miguel!
 
 <div> 
   <a href="https://www.youtube.com/channel/UCiiLg8_6VShZSTY669CRGgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -20,6 +20,7 @@ Gosto de codar jogos, game engines, IA, websites e etc.
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+---
 
 <div align = "left">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Cesio137&theme=dark&show_icons=true&hide_border=false&count_private=true"/>

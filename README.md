@@ -6,6 +6,12 @@
   <a href="https://twitter.com/NathanCmig" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
+Gosto de codar jogos, game engines, IA, websites e etc.
+
+- Prodigio em C++
+- Fã de inteligencia artificial
+- Aprendendo algo sobre criar game engine
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

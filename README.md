@@ -1,5 +1,6 @@
 #### Fala tu, eu sou Nathan Miguel! Gosto de codar jogos, game engines, IA, websites e etc.
 
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -7,6 +8,7 @@
 <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+
 
 <div align = "left">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Cesio137&theme=dark&show_icons=true&hide_border=false&count_private=true"/>

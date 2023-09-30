@@ -1,3 +1,5 @@
+<img src="Gear5.gif" width="325px" align="right">
+
 #### Fala tu, eu sou Nathan Miguel!
 
 <div> 

@@ -1,4 +1,4 @@
-##### Fala tu, eu sou Nathan Miguel! Gosto de codar jogos, game engines, IA, websites e etc.
+#### Fala tu, eu sou Nathan Miguel! Gosto de codar jogos, game engines, IA, websites e etc.
 
 <div align = "left">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=Cesio137&theme=dark&show_icons=true&hide_border=false&count_private=true"/>

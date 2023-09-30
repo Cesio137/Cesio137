@@ -1,5 +1,10 @@
 #### Fala tu, eu sou Nathan Miguel! Gosto de codar jogos, game engines, IA, websites e etc.
 
+<div> 
+  <a href="https://www.youtube.com/channel/UCiiLg8_6VShZSTY669CRGgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/nathan_cmiguel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/NathanCmig" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">

@@ -1,3 +1,7 @@
-##### <img src="Gear5.gif" width="325px" align="right">
+##### Fala tu, eu sou Nathan Miguel! Gosto de codar jogos, game engines, IA, websites e etc.
 
-##### Hello World eu sou Nathan Miguel! Sou fanboy na area de criação de jogos, exploits, IA e um pouco de Nodejs.
+<div align = "left">
+<img height = "90em" src="https://github-readme-stats.vercel.app/api?username=Cesio137&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+<img height = "90em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cesio137&theme=dark&hide_border=false" />
+ <img height = "90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesio137&theme=dark&show_icons=true&hide_border=false&layout=compact" />
+</div>

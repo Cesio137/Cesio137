@@ -13,6 +13,9 @@ Gosto de codar jogos, game engines, IA, websites e etc.
 - Prodigio em C++
 - Fã de inteligencia artificial
 - Aprendendo algo sobre criar game engine
+- Unreal Engine 5
+- Godot
+- Aprendendo Unity
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">

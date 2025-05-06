@@ -11,12 +11,12 @@
 
 Gosto de codar jogos, game engines, IA, websites e etc.
 
-- Prodigio em C++
+- Prodigio em C/C++
+- Segurança de memoria com Rust
 - Fã de inteligencia artificial
-- Aprendendo algo sobre criar game engine
-- Unreal Engine 5
-- Godot
-- Aprendendo Unity
+- Aprendendo opengl para criar uma game engine
+- Criei 2 plugins incriveis para Unreal Engine
+- Criador do discord bot Bangboo
 
 ---
 Motores Graficos
